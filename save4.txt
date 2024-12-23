@@ -1,0 +1,17 @@
+9 9 9
+Lis 0 3 2 3 7 L
+Wilk 1 1 2 9 5 W
+Czlowiek 7 5 2 10 4 C 5
+Antylopa 3 4 2 4 4 A
+Owca 2 8 2 4 4 O
+CyberOwca 8 2 2 11 4 Y
+CyberOwca 8 5 1 11 4 Y
+Zolw 7 3 2 2 1 Z
+BarszczSosnowskiego 3 7 2 9999 0 B
+Guarana 3 2 2 0 0 G
+Mlecz 6 4 2 0 0 M
+Trawa 0 6 2 0 0 T
+WilczeJagody 2 3 2 9999 0 J
+Guarana 7 4 1 0 0 G
+Guarana 2 2 1 0 0 G
+Mlecz 5 4 1 0 0 M

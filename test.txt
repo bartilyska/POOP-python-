@@ -1,0 +1,25 @@
+10 10 7
+Lis 0 6 4 3 7 L
+Lis 0 9 4 3 7 L
+Wilk 1 9 4 9 5 W
+Wilk 5 7 4 9 5 W
+Czlowiek 9 6 4 8 4 C 3
+Antylopa 5 3 4 4 4 A
+CyberOwca 2 4 4 11 4 Y
+Antylopa 8 5 4 4 4 A
+CyberOwca 3 4 4 11 4 Y
+Zolw 3 7 4 2 1 Z
+Zolw 1 5 4 2 1 Z
+Guarana 8 9 4 0 0 G
+Mlecz 4 2 4 0 0 M
+Trawa 7 9 4 0 0 T
+WilczeJagody 9 2 4 9999 0 J
+BarszczSosnowskiego 9 9 4 9999 0 B
+Guarana 0 1 4 0 0 G
+Mlecz 9 0 4 0 0 M
+WilczeJagody 8 4 4 9999 0 J
+Mlecz 5 2 3 0 0 M
+Mlecz 4 3 2 0 0 M
+BarszczSosnowskiego 9 8 1 9999 0 B
+WilczeJagody 9 4 1 9999 0 J
+Mlecz 3 3 1 0 0 M
